@@ -1,7 +1,6 @@
-### This is what I have been working on!  👋
+### Hey there :)
+This is what I have been working on!  👋
 
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Forecasting Gender Inequality in the Economy
 - 🌱 I’m currently learning Python 3.9
